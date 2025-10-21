@@ -153,9 +153,7 @@ function Showsearch() {
 
                 // Do not return pages or categories
                 // pages: pages.filter(FILTERS.PAGE).sort(function(a, b) { return WEIGHTS.PAGE(b) - WEIGHTS.PAGE(a); }).slice(0, 5),
-                
-                // Added back by Will Ngiam
-                categories: categories.filter(FILTERS.CATEGORY).sort(function(a, b) { return WEIGHTS.CATEGORY(b) - WEIGHTS.CATEGORY(a); }).slice(0, 5),
+                // categories: categories.filter(FILTERS.CATEGORY).sort(function(a, b) { return WEIGHTS.CATEGORY(b) - WEIGHTS.CATEGORY(a); }).slice(0, 5),
 
             };
         }
