@@ -10,17 +10,17 @@ paper_url: https://doi.org/10.1037/rev0000044
 data_url: https://osf.io/fubec
 analysis_url: https://osf.io/ynsxq
 tags:
-- task: delayed reproduction
-- stimulus: colour
-- stimulus: colour-orientation conjunctions
-- data-level: trial-level
-- data-format: .dat
-- data-dictionary: available
-- computational modeling
-- model comparison
-- interference model
-- theory
-- set size effect
+- "task: delayed reproduction"
+- "stimulus: colour"
+- "stimulus: colour-orientation conjunctions"
+- "data-level: trial-level"
+- "data-format: .dat"
+- "data-dictionary: available"
+- "computational modeling"
+- "model comparison"
+- "interference model"
+- "theory"
+- "set size effect"
 librarian: Philipp Musfeld
 ---
 

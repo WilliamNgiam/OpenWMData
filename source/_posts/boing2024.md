@@ -1,6 +1,6 @@
 ---
 title: Boing et al. (2024)
-subtitle: Inspecting the external world: Memory capacity, but not memory self-efficacy, predicts offloading in working memory
+subtitle: "Inspecting the external world: Memory capacity, but not memory self-efficacy, predicts offloading in working memory"
 date: 2024-12-21
 authors:
 - Boing, Sanne
@@ -17,13 +17,13 @@ data_url: https://osf.io/ys67b/overview
 task_url: https://osf.io/ys67b/overview
 analysis_url: https://osf.io/ys67b/files/ngfua
 tags:
-- task: copy task
-- stimulus: shape, spatial locations
-- data-level: trial-level
-- data-format: csv 
-- data-dictionary: available 
-- neuropsychological assessment
-- metamemory
+- "task: copy task"
+- "stimulus: shapes"
+- "data-level: trial-level"
+- "data-format: csv"
+- "data-dictionary: available" 
+- "neuropsychological assessment"
+- "metamemory"
 librarian: Candice Koolhaas
 ---
 

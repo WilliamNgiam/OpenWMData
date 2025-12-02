@@ -6,22 +6,19 @@ authors:
 - DeStefano, Isabella
 - Vul, Edward
 - Brady, Timothy F.
-
 journal: Journal of Experimental Psychology. Human Perception and Performance # Journal that paper is published in
 paper_url: https://doi.org/10.1037/xhp0001335 # The full DOI link of the paper (e.g. https://doi.org/10.1037/xge0001479)
 data_url: https://osf.io/6y8ap/overview?view_only=8557e971b5a14f3d8b37fafaefba18f1 # URL to data repository; preferably OSF repo link (e.g. https://osf.io/wjr7u)
 tags:
-- task: serial reproduction # First tag should be type of experiment task
-- stimulus: colour # Second tag should be the type of stimulus (if relevant)
-- data-level: trial-level # Third tag should be the level of data (trial-level, subject-level, group-level)
-- data-format: csv # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
-- data-format: Rdata # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
-- Cognitive Bias
-- Individual difference
-- Perceptual Stimulation
-- Retention
-- Serial Recall
-- Stimulus-Specific Biases
+- "task: serial reproduction" # First tag should be type of experiment task
+- "stimulus: colour" # Second tag should be the type of stimulus (if relevant)
+- "data-level: trial-level" # Third tag should be the level of data (trial-level, subject-level, group-level)
+- "data-format: csv" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- "data-format: Rdata" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- "cognitive bias"
+- "individual differences"
+- "colour perception"
+- "stimulus-specific Biases"
 librarian: Shichen Jia # Add your name here as the data librarian if you are not the author!
 ---
 
