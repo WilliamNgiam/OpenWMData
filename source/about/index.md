@@ -40,6 +40,7 @@ The following early-career researchers have contributed to curating datasets:
 * Yong Hoon Chung, Dartmouth University
 * Shichen Jia, University of Amsterdam
 * Marlene Rosner, University of Birmingham
+* Philipp Musfeld, University of Amsterdam
 
 <h2 style="margin: 1em 0em 0.5em 0em">How can I add a dataset?</h2>
 Please see the <a href="../contribute">contributing</a> page.
