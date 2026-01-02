@@ -1,5 +1,5 @@
 ---
-title: Oberauer (2022))
+title: Oberauer (2022)
 subtitle: Little Support for Discrete Item Limits in Visual Working Memory
 date: 2022-01-01
 authors:
