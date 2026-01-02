@@ -1,27 +1,26 @@
 ---
-title: Oberauer (2022)
-subtitle: When Does Working Memory Get Better with Longer Time?
-date: 2022-09-15
+title: Oberauer (2022a)
+subtitle: Little Support for Discrete Item Limits in Visual Working Memory
+date: 2022-01-01
 authors:
 - Oberauer, Klaus
-journal: "Journal of Experimental Psychology: Learning, Memory, and Cognition"
-paper_url: https://doi.org/10.1037/xlm0001199 
-data_url: http://osf.io/3g8hm
-analysis_url: http://osf.io/3g8hm
+journal: "Psychological Science"
+paper_url: https://doi.org/10.1177/09567976211068045 
+data_url: https://osf.io/vwnbh/
+analysis_url: https://osf.io/vwnbh/
 tags:
-- "task: serial recall"
-- "stimulus: words"
-- "stimulus: letters"
-- "stimulus: digits"
+- "task: delayed reproduction"
+- "task: whole-report"
+- "stimulus: colour"
 - "data-level: trial-level"
 - "data-format: .txt"
-- "data-format: .dat"
+- "data-format: .RData"
 - "data-dictionary: available"
-- "serial recall"
-- "simple span"
-- "free time"
+- "delayed estimation"
+- "continuous reproduction"
+- "set size"
 librarian: William Ngiam and Klaus Oberauer
 ---
 
 <!-- Insert paper abstract below -->
-Longer free time between presentation of items of a list of verbal items often leads to better immediate serial recall. The present series of three experiments demonstrates that this beneficial effect of time is more general than has been known: It is found for verbal items presented visually and auditorily (Experiments 1 and 2), and also when people engage in concurrent articulation during presentation, thereby preventing rehearsal (Experiment 3). The effect of time is to improve memory most strongly for later part of the list, contrary to what is predicted from the assumption that time between items is used to bolster memory traces of already encoded items through rehearsal, refreshing, or elaboration. The data are compatible with a ballistic form of short-term consolidation, and with the assumption that encoding an item into working memory partially depletes a limited resource, which is replenished over time. 
+Some theorists argue that working memory is limited to a discrete number of items, and additional items are not encoded at all. Others assume that all items are represented with variable quality. Adam, Vogel, and Awh (2017) presented evidence supporting the item-limit hypothesis: Participants reproduced visual features of up to six items in a self-chosen order. After the third or fourth response, error distributions were indistinguishable from guessing. I present four experiments with young adults testing the assumption that the brief, simultaneous display of visual arrays has led to failures of encoding in the experiments of Adam et al. (2017). Experiment 1 presented items slowly and sequentially. Experiment 2 presented them simultaneously but longer than in the experiments of Adam et al. (2017). Experiments 3 and 4 exactly replicated one original experiment. There was no evidence for an encoding limit. However, all four experiments failed to replicate the evidence for guessing-like error distributions. Modelling data from individuals revealed a mixture of some who do and others who don’t produce guessing-like distributions. This heterogeneity increases the credibility of an alternative to the item-limit hypothesis: Some individuals decide to guess on hard trials even when they have weak information in memory.  
