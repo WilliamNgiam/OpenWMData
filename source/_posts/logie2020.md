@@ -33,3 +33,11 @@ librarian: William Ngiam and Robert Logie # Add your name here as the data libra
 
 <!-- Insert paper abstract below -->
 We describe a set of multiple measures of working memory and self-report data on memory, together with lifestyle factors, collected over the internet from 408,938 participants, aged from 8 years to 90 years, from over 180 countries. Data collection was carried out online in collaboration with the British Broadcasting Corporation (BBC), and via the BBC Science website between May 2006 and April 2009. The internet study was promoted in a two-hour television documentary broadcast on BBC television in 2006, in the UK television guide publication 'Radio Times', on various BBC radio shows, and in 2009 on a popular weekday chat and current affairs BBC television show, The One Show. Participants could access the material from their own computers over the internet from anywhere worldwide. Because of promotion by the BBC over 480,000 individuals viewed the first page of the study over the internet, and of these, over 427,000 individuals attempted at least some of the online tests and questionnaires, with 243 variables collected for each participant who completed all of the study. Multiple papers are associated with this dataset published between 2007 and 2025. The full dataset was made available on the OSF in 2020.
+
+Other associated publications:
+
+* [An Internet study of prospective memory across adulthood.](https://doi.org/10.1037/a0015479)
+* [Working memory tasks differ in factor structure across age cohorts: Implications for dedifferentiation](https://doi.org/10.1016/j.intell.2010.06.005)
+* [A large-scale comparison of prospective and retrospective memory development from childhood to middle age](https://doi.org/10.1080/17470210903469872)
+* [Age-related change in visual working memory: a study of 55,753 participants aged 8–75](https://doi.org/10.3389/fpsyg.2013.00012)
+* [Internal structure of the prospective and retrospective memory questionnaire – PRMQ – in a sample of 297,242 participants](https://doi.org/10.1080/09658211.2025.2557955)
