@@ -12,13 +12,14 @@ data_url: https://osf.io/mwzfh # URL to data repository; preferably OSF repo lin
 task_url: https://osf.io/mwzfh # URL to any experiment task code (delete line if not provided)
 analysis_url: https://osf.io/mwzfh # URL to any data analysis scripts (delete line if not provided)
 tags:
-- task: "memory for real-life object sequences"  # First tag should be type of experiment task
-- stimulus: "visual sequences of real-life objects" # Second tag should be the type of stimulus (if relevant)
-- data-level: subject-level # Third tag should be the level of data (trial-level, subject-level, group-level)
-- data-format: .csv # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
-- data-dictionary: available # If a codebook is available
-- confidence # Other useful tags, for e.g. dependent variables, experiment manipulation
-- categories
+- "task: memory for real-life object sequences"  # First tag should be type of experiment task
+- "stimulus: visual sequences of real-life objects" # Second tag should be the type of stimulus (if relevant)
+- "data-level: subject-level" # Third tag should be the level of data (trial-level, subject-level, group-level)
+- "data-format: .csv" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- "data-dictionary: available " # If a codebook is available
+- "confidence" # Other useful tags, for e.g. dependent variables, experiment manipulation
+- "categories"
+- "familiarity"
 librarian: # Add your name here as the data librarian if you are not the author!
 ---
 
