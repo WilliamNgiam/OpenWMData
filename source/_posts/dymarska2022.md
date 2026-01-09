@@ -17,9 +17,9 @@ tags:
 - "data-level: subject-level" # Third tag should be the level of data (trial-level, subject-level, group-level)
 - "data-format: .csv" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
 - "data-dictionary: available " # If a codebook is available
-- "confidence" # Other useful tags, for e.g. dependent variables, experiment manipulation
-- "categories"
-- "familiarity"
+- "articulatory suppression"
+- "linguistic labels"
+- "recognition memory"
 librarian: # Add your name here as the data librarian if you are not the author!
 ---
 
