@@ -1,6 +1,6 @@
 ---
 title: Rosner et al. (2022)
-subtitle: Preparing for the unknown: How working memory provides a link between perception and anticipated action 
+subtitle: "Preparing for the unknown: How working memory provides a link between perception and anticipated action" 
 date: 2022-07-14
 authors:
 - Rosner, Marlene
@@ -14,13 +14,13 @@ data_url: https://zenodo.org/record/6912507#.Yvn4ui222FU
 task_url: https://osf.io/n8hsr/overview
 analysis_url: https://osf.io/n8hsr/overview
 tags:
-- task: delayed reproduction
-- stimulus: Gabor patch
-- data-format: .tar
-- orientation
-- neuroimaging
-- EEG
-- oscillations
+- "task: delayed reproduction"
+- "stimulus: Gabor patch"
+- "data-format: .tar"
+- "orientation"
+- "neuroimaging"
+- "EEG"
+- "oscillations"
 librarian: Candice Koolhaas
 ---
 
