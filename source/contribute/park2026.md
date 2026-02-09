@@ -1,0 +1,24 @@
+---
+title: Park and Awh, (2026)
+subtitle: Contributions from long-term memory explain superior visual working memory performance with meaningful objects
+date: 2026-01-09
+authors:
+- Park, Hyung-Bum
+- Awh, Edward
+journal: Hournal of Neuroscience
+paper_url: https://doi.org/10.1523/JNEUROSCI.1660-25.2025
+data_url: https://osf.io/e8ptm/overview
+tags:
+- task: delayed reproduction
+- stimulus: color
+- data-level: subject-level
+- data-format: .mat
+- data-dictionary: 
+- ERP
+- Long term memory
+- ROC
+librarian: Candice Koolhaas
+---
+
+<!-- Insert paper abstract below -->
+Working memory (WM) capacity has been claimed to be larger for meaningful objects than for simple features, possibly because richer semantic representations enhance item distinctiveness. However, prior demonstrations compared trial-unique meaningful objects with a small set of repeated simple features. This design confounds meaningfulness with proactive interference (PI), such that PI is minimal for trial-unique objects but substantial for repeated features. Therefore, superior performance for meaningful objects may reflect contributions from episodic long-term memory (LTM) rather than expanded WM capacity. To test this, Experiment 1 measured WM for repeated colors, repeated meaningful objects, and trial-unique meaningful objects from 31 human observers (18 female). The advantage for objects over colors was replicated in the trial-unique condition but eliminated for repeated objects that equated PI across stimulus types. Hierarchical Bayesian dual-process modeling revealed that this advantage reflected stronger familiarity signals, whereas recollection remained stable across stimulus types. Experiment 2 assessed WM storage directly using contralateral delay activity (CDA), an electrophysiological marker of the number of items stored, from 25 observers (14 females). Although trial-unique objects again yielded behavioral advantages, CDA activity across increasing set sizes revealed a common slope and plateau for trial-unique meaningful objects and repeated colors. The CDA difference between stimulus types was additive and did not vary with set size, providing no evidence for increased WM storage. These findings suggest that object advantages in WM reflect reduced PI and enhanced contributions from LTM. When PI is equated, WM storage limits for simple and meaningful stimuli are equivalent.
