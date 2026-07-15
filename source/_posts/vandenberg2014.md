@@ -12,11 +12,12 @@ paper_url: https://doi.org/10.1037/a0035234 # The full DOI link of the paper (e.
 data_url: https://github.com/WeiJiMaLab/delayed_estimation_benchmark/tree/master/data # URL to data repository; preferably OSF repo link (e.g. https://osf.io/wjr7u)
 analysis_url: https://github.com/WeiJiMaLab/delayed_estimation_benchmark/tree/master/code # URL to any data analysis scripts (delete line if not provided)
 tags:
-- task: delayed reproduction # First tag should be type of experiment task
-- stimulus: colour, orientation # Second tag should be the type of stimulus (if relevant)
-- data-level: trial-level # Third tag should be the level of data (trial-level, subject-level, group-level)
-- data-format: .mat # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
-- data-dictionary: available # If a codebook is available
+- "task: delayed reproduction" # First tag should be type of experiment task
+- "stimulus: colour"
+- "stimulus: orientation" # Second tag should be the type of stimulus (if relevant)
+- "data-level: trial-level" # Third tag should be the level of data (trial-level, subject-level, group-level)
+- "data-format: .mat" # Fourth tag should be the file format of the data. (e.g. .mat, .csv., .dat)
+- "data-dictionary: available" # If a codebook is available
 - capacity # Other useful tags, for e.g. dependent variables, experiment manipulation
 - resource model 
 - model comparison
