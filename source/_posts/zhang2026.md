@@ -11,7 +11,7 @@ data_url: https://osf.io/xsc34/
 task_url: https://osf.io/xsc34/
 analysis_url: https://osf.io/xsc34/
 tags:
-- "task: delayed reproduction"
+- "task: snake game"
 - "stimulus: location"
 - "data-level: trial-level"
 - "data-format: csv"
